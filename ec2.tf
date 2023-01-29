@@ -1,5 +1,6 @@
 provider "aws" {
-  profile = "default"
+  access_key = "AKIAT4A6AF7F4ZI22XUF"
+  secret_key = "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"
   region  = "us-east-1"
 }
 
